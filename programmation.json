@@ -1,3 +1,39 @@
 {
-  "parutions": []
+  "parutions": [
+    {
+      "id": "2026-11-18-story-9h",
+      "date": "2026-11-18T09:00:00+01:00",
+      "type": "story",
+      "medias": [
+        "media/2026-11-18/18-11_story_9h.jpg"
+      ]
+    },
+    {
+      "id": "2026-11-18-story-13h",
+      "date": "2026-11-18T13:00:00+01:00",
+      "type": "story",
+      "medias": [
+        "media/2026-11-18/18-11_story_13h.jpg"
+      ]
+    },
+    {
+      "id": "2026-11-18-carrousel",
+      "date": "2026-11-18T18:30:00+01:00",
+      "type": "carrousel",
+      "medias": [
+        "media/2026-11-18/18-11_carrousel_1.jpg",
+        "media/2026-11-18/18-11_carrousel_2.jpg",
+        "media/2026-11-18/18-11_carrousel_3.jpg"
+      ],
+      "legende": "Chanter, mon refuge de Joie 🎤 Une façon simple de lâcher prise et de revenir à Toi\n\nUne Respiration pour Revenir à TOI\nLe Bonheur Vibre au bout du Chemin\nAlors Parce que ça a marché pour moi\nJe t'Accompagne Avec des Outils personnalisés\nPour Rayonner Dans TA VIE\n\nChanter, c'est mon refuge\nQuand je chante\nJe respire plus grand\nJe souris\nMon Corps se détend\nEt je reviens à Moi\n\nPas besoin de chanter juste\nIl suffit de chanter vrai\nSous la douche, dans la voiture, dans ton salon\nTa voix fait circuler la Joie en Toi\n\nChanter, c'est Souffler la Joie\n\nProfite de la Vie, elle est faite pour Toi ☀️\n\nEt Toi, quelle chanson te met en Joie ? Écris-la en commentaire, on se fait une playlist de Joie 🎶\n\nPartage ce post à la personne avec qui tu chantes à tue-tête\n\nJe commence par un échange\n15 min offertes en visio\nLien en bio\n\n#joiedevivre #lacherprise #etresoi #chanter #neurohypnose"
+    },
+    {
+      "id": "2026-11-18-story-19h",
+      "date": "2026-11-18T19:00:00+01:00",
+      "type": "story",
+      "medias": [
+        "media/2026-11-18/18-11_story_19h.jpg"
+      ]
+    }
+  ]
 }
