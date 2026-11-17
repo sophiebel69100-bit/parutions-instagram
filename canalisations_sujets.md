@@ -1,5 +1,6 @@
 # Sujets de canalisations (fournis par Sophie le 17/11/2026)
 Reliés à son livre et à ses prises de conscience. Cocher [x] quand un sujet est publié.
+Sophie autorise (17/11) à trouver aussi des sujets soi-même, reliés de près ou d'un peu plus loin à ces thèmes : les ajouter dans « Sujets ajoutés ».
 
 ## Déjà faites
 - [x] Le Silence qui Répond (lun 16/11)
@@ -54,3 +55,11 @@ Reliés à son livre et à ses prises de conscience. Cocher [x] quand un sujet e
 5. La Mission de l'Âme
 6. Le Moment présent
 7. L'Abondance
+
+## Sujets ajoutés (trouvés par Claude, reliés aux thèmes)
+- Le Matin qui donne le ton
+- Ce que la Nature m'apprend
+- La Beauté qui soigne
+- Les Mots que je me dis
+- Oser Rayonner
+- Le Temps pour Soi
