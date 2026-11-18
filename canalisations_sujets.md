@@ -5,7 +5,7 @@ Sophie autorise (17/11) à trouver aussi des sujets soi-même, reliés de près 
 ## Déjà faites
 - [x] Le Silence qui Répond (lun 16/11)
 - [x] Accueillir une Émotion sans la juger (mer 18/11)
-- [ ] Les Idées du Réveil (lun 23/11)
+- [x] Les Idées du Réveil (lun 23/11, monté le 18/11)
 
 ## Thèmes
 1. Le Pardon
