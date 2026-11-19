@@ -82,3 +82,6 @@ Une canalisation et une publication peuvent coexister le même jour sur le même
 
 ## Règle (19/11, suite)
 Chaque reel de canalisation mélange les images envoyées par Sophie et des photos de sa banque de photos, en respectant la règle des 15 jours (photos_utilisees.json)
+
+## Règle (19/11, grille)
+Toujours au moins 2 publications entre deux reels sur la grille : chaque jour de canalisation (lundi et mercredi) a aussi une publication à 12h30
