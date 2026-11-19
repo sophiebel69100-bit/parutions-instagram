@@ -11,6 +11,15 @@ Sophie autorise (17/11) à trouver aussi des sujets soi-même, reliés de près 
 - [x] Accueillir une Émotion sans la juger (mer 18/11)
 - [x] Les Idées du Réveil (lun 23/11, monté le 18/11)
 
+## À recevoir (planning donné à Sophie le 19/11)
+- mer 09/12 : Le Lâcher-prise (5 éléments reçus : femme au ballon cœur, homme N&B, cage ouverte, Aimer sans porter, quai de gare)
+- lun 14/12 : Revenir à la Source
+- mer 16/12 : Écouter son Intuition
+- lun 21/12 : Les Saisons de la Vie
+- mer 23/12 : La Gratitude
+- lun 28/12 : Le Corps comme Maison
+- mer 30/12 : Créer sa Vie
+
 ## Thèmes
 1. Le Pardon
 2. Les Limites
