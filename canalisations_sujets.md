@@ -3,6 +3,7 @@ Reliés à son livre et à ses prises de conscience. Cocher [x] quand un sujet e
 Sophie autorise (17/11) à trouver aussi des sujets soi-même, reliés de près ou d'un peu plus loin à ces thèmes : les ajouter dans « Sujets ajoutés ».
 
 ## Déjà faites
+- [x] Les Limites (mer 02/12)
 - [x] La Voix qui ancre (lun 30/11)
 - [x] La Joie simple (mer 25/11)
 - [x] Le Silence qui Répond (lun 16/11)
@@ -65,3 +66,6 @@ Sophie autorise (17/11) à trouver aussi des sujets soi-même, reliés de près 
 - Les Mots que je me dis
 - Oser Rayonner
 - Le Temps pour Soi
+
+## Règle (19/11)
+Une canalisation et une publication peuvent coexister le même jour sur le même sujet : publication à 12h30, canalisation à 18h30.
