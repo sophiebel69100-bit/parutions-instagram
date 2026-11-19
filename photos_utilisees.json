@@ -74,7 +74,8 @@
    "2026-12-07"
   ],
   "toi_balade_lyon_01": [
-   "2026-11-19"
+   "2026-11-19",
+   "2026-12-07"
   ],
   "sophie_bras_ouverts_foret": [
    "2026-11-19",
@@ -183,15 +184,13 @@
    "2026-12-07"
   ],
   "toi_meditation_herbe": [
-   "2026-11-18",
-   "2026-12-07"
+   "2026-11-18"
   ],
   "vrai_mer_kenya_2": [
    "2026-11-18"
   ],
   "sophie_breathwork_main_coeur": [
-   "2026-11-18",
-   "2026-12-07"
+   "2026-11-18"
   ],
   "banque_canape_larmes": [
    "2026-11-18"
@@ -470,6 +469,9 @@
   ],
   "toi_breathwork_reel": [
    "2026-12-02"
+  ],
+  "bali_formatrice_guide": [
+   "2026-12-07"
   ]
  }
 }
