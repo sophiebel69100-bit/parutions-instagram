@@ -14,7 +14,15 @@ Sophie autorise (17/11) à trouver aussi des sujets soi-même, reliés de près 
 ## À recevoir (planning donné à Sophie le 19/11)
 - mer 09/12 : Le Lâcher-prise (5 éléments reçus : femme au ballon cœur, homme N&B, cage ouverte, Aimer sans porter, quai de gare)
 - lun 14/12 : Revenir à la Source (6 éléments reçus, scratchpad canal9/src : fillette mains sur les joues, femme dans l'eau avec fleurs, visage dans l'eau N&B, télécommande, vidéo homme qui flotte en piscine 26 s horizontale, vidéo couple qui rit 11 s)
-- mer 16/12 : Écouter son Intuition (1 élément reçu, scratchpad canal10/src : vidéo homme sur canapé qui lâche son téléphone 15 s)
+- mer 16/12 : Écouter son Intuition (plan donné par Sophie, scratchpad canal10/src : v1 homme qui lâche son téléphone, v2 plume dorée, v3 plume violette)
+  1. Ouverture main sur le ventre : sophie_breathwork_main_coeur
+  2. « Elle ne crie pas, elle murmure » : detail_plume (+ vidéo plume)
+  3. « Ta tête peut se reposer » : toi_meditation_herbe
+  4. « Tes signes viennent de l'intérieur » : vrai_alignement_carillon
+  5. « Des mots qui sortent sans passer par la tête » : vrai_riviere_1015_8
+  6. « Une vraie vibration fait du bien dans le cœur » : banque_arbre_mains_coeur
+  7. « Ton intuition est ta boussole » : foret_03 (foret_02 trop récent)
+  8. Fond en mouvement possible : vidéo vrai_pieds_sable_vague
 - lun 21/12 : Les Saisons de la Vie
 - mer 23/12 : La Gratitude
 - lun 28/12 : Le Corps comme Maison
