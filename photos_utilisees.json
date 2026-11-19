@@ -1,439 +1,475 @@
 {
-  "regle": "Une même photo au maximum une fois tous les 15 jours, et jamais deux fois le même jour. Vérifier ce fichier avant de choisir une photo et le mettre à jour à chaque programmation.",
-  "utilisations": {
-    "vrai_sophie_arbre_front_pieds_nus": [
-      "2026-11-13",
-      "2026-11-28",
-      "2026-11-30"
-    ],
-    "vrai_mer_kenya_eau_reflets": [
-      "2026-11-13",
-      "2026-12-01"
-    ],
-    "vrai_mer_kenya_ile": [
-      "2026-11-13",
-      "2026-11-29"
-    ],
-    "vrai_kenya_transat_plage": [
-      "2026-11-13",
-      "2026-11-28"
-    ],
-    "vrai_mer_kenya_barque": [
-      "2026-11-14",
-      "2026-11-29"
-    ],
-    "vrai_riviere_1015_9": [
-      "2026-11-14",
-      "2026-11-15",
-      "2026-11-29"
-    ],
-    "vrai_riviere_1015_10": [
-      "2026-11-15"
-    ],
-    "vrai_riviere_1015_8": [
-      "2026-11-15",
-      "2026-11-16"
-    ],
-    "vrai_riviere_1015_4": [
-      "2026-11-15",
-      "2026-11-30"
-    ],
-    "vrai_riviere_1015_3": [
-      "2026-11-16",
-      "2026-12-01"
-    ],
-    "vrai_riviere_1015_5": [
-      "2026-11-16"
-    ],
-    "toi_micro_selfie": [
-      "2026-11-17"
-    ],
-    "matin_fenetre_01": [
-      "2026-11-17"
-    ],
-    "matin_jardin_provence": [
-      "2026-11-17"
-    ],
-    "medaillon": [
-      "2026-11-17"
-    ],
-    "video_danse_femme_fenetre": [
-      "2026-11-11"
-    ],
-    "banque_ciel_rayons": [
-      "2026-11-21"
-    ],
-    "sophie_the_lavande_terrasse": [
-      "2026-11-18",
-      "2026-12-03"
-    ],
-    "sophie_amies_danse_terrasse": [
-      "2026-11-21",
-      "2026-12-07"
-    ],
-    "toi_balade_lyon_01": [
-      "2026-11-19"
-    ],
-    "sophie_bras_ouverts_foret": [
-      "2026-11-19",
-      "2026-12-04",
-      "2026-11-30"
-    ],
-    "sophie_amies_rire_terrasse": [
-      "2026-11-19",
-      "2026-12-04"
-    ],
-    "vrai_mer_kenya_1": [
-      "2026-11-20"
-    ],
-    "sophie_sourire_mer": [
-      "2026-11-20",
-      "2026-12-07"
-    ],
-    "vrai_mer_kenya_boutre": [
-      "2026-11-20"
-    ],
-    "matin_riviere_brume": [
-      "2026-11-16"
-    ],
-    "foret_02": [
-      "2026-11-16"
-    ],
-    "banque_arbre_mains_coeur": [
-      "2026-11-16",
-      "2026-11-30"
-    ],
-    "ciel_04": [
-      "2026-11-16"
-    ],
-    "quotidien_bureau_calme": [
-      "2026-11-16"
-    ],
-    "toi_balade_riviere": [
-      "2026-11-16"
-    ],
-    "foret_05": [
-      "2026-11-16"
-    ],
-    "vrai_arbre_ancrage": [
-      "2026-11-16",
-      "2026-12-01"
-    ],
-    "foret_01": [
-      "2026-11-16"
-    ],
-    "vrai_petit_arbre_qui_grandit": [
-      "2026-11-16",
-      "2026-12-02"
-    ],
-    "ciel_03": [
-      "2026-11-16"
-    ],
-    "foret_04": [
-      "2026-11-16"
-    ],
-    "riviere_1411_feuille_main": [
-      "2026-11-16"
-    ],
-    "riviere_1411_feuilles_baies": [
-      "2026-11-16",
-      "2026-12-07"
-    ],
-    "video_riviere_1411": [
-      "2026-11-16"
-    ],
-    "foret_03": [
-      "2026-11-16"
-    ],
-    "ciel_02": [
-      "2026-11-16"
-    ],
-    "ciel_01": [
-      "2026-11-16"
-    ],
-    "matin_fenetre_02": [
-      "2026-11-18"
-    ],
-    "matin_rosee": [
-      "2026-11-18"
-    ],
-    "quotidien_telephone_notifs": [
-      "2026-11-18"
-    ],
-    "matin_ruelle_ville": [
-      "2026-11-18"
-    ],
-    "detail_plume": [
-      "2026-11-18"
-    ],
-    "vrai_mer_kenya_3": [
-      "2026-11-18"
-    ],
-    "cocooning_lit": [
-      "2026-11-18"
-    ],
-    "matin_pieds_parquet": [
-      "2026-11-18"
-    ],
-    "toi_meditation_herbe": [
-      "2026-11-18"
-    ],
-    "vrai_mer_kenya_2": [
-      "2026-11-18"
-    ],
-    "sophie_breathwork_main_coeur": [
-      "2026-11-18",
-      "2026-12-07"
-    ],
-    "banque_canape_larmes": [
-      "2026-11-18"
-    ],
-    "detail_galets": [
-      "2026-11-18"
-    ],
-    "vrai_mer_kenya_malindi_2": [
-      "2026-11-18"
-    ],
-    "matin_lyon_terrasse_01": [
-      "2026-11-18"
-    ],
-    "vrai_bretagne_plage_soleil": [
-      "2026-11-18",
-      "2026-12-03"
-    ],
-    "ia_main_olivier": [
-      "2026-11-18"
-    ],
-    "banque_maison_lombaires": [
-      "2026-11-18"
-    ],
-    "matin_mains_tasse": [
-      "2026-11-18"
-    ],
-    "quotidien_nuque_tension": [
-      "2026-11-18"
-    ],
-    "detail_lavande": [
-      "2026-11-18"
-    ],
-    "vrai_bretagne_baie_pin_1": [
-      "2026-11-18"
-    ],
-    "vrai_pieds_sable_vague": [
-      "2026-11-18"
-    ],
-    "matin_fenetre_03": [
-      "2026-11-18"
-    ],
-    "matin_terrasse_05": [
-      "2026-11-18"
-    ],
-    "vrai_sophie_plage_bras_ouverts": [
-      "2026-11-18",
-      "2026-12-04"
-    ],
-    "vrai_bretagne_plage_pins": [
-      "2026-11-18",
-      "2026-12-07"
-    ],
-    "matin_fenetre_04": [
-      "2026-11-23"
-    ],
-    "cocooning_plaid": [
-      "2026-11-23"
-    ],
-    "vrai_mariee_bouquet_danse": [
-      "2026-11-23"
-    ],
-    "vrai_bouquet_peche_atelier": [
-      "2026-11-23"
-    ],
-    "vrai_alignement_carillon": [
-      "2026-11-23"
-    ],
-    "vrai_bouquet_lavande_vase": [
-      "2026-11-23"
-    ],
-    "cocooning_01": [
-      "2026-11-23"
-    ],
-    "montagne_01": [
-      "2026-11-23"
-    ],
-    "detail_bougie": [
-      "2026-11-23"
-    ],
-    "toi_breathwork_seance": [
-      "2026-11-23"
-    ],
-    "bali_sophie_tambour_01": [
-      "2026-11-23"
-    ],
-    "vrai_alignement_carillon_feuillage": [
-      "2026-11-23"
-    ],
-    "matin_lyon_quai": [
-      "2026-11-23"
-    ],
-    "matin_lyon_terrasse_02": [
-      "2026-11-23"
-    ],
-    "vrai_sophie_amies_terrasse_plage": [
-      "2026-11-23"
-    ],
-    "mer_02": [
-      "2026-11-23"
-    ],
-    "vrai_mer_kenya_malindi_1": [
-      "2026-11-23"
-    ],
-    "vrai_bretagne_baie_pin_2": [
-      "2026-11-23"
-    ],
-    "banque_marche_coucher_soleil": [
-      "2026-11-23"
-    ],
-    "vrai_mer_kenya_4": [
-      "2026-11-23"
-    ],
-    "toi_arbre_ancrage": [
-      "2026-11-23"
-    ],
-    "sophie_bienvenue": [
-      "2026-11-23"
-    ],
-    "mer_04": [
-      "2026-11-23"
-    ],
-    "vrai_sophie_grimace_selfie": [
-      "2026-11-21"
-    ],
-    "mer_03": [
-      "2026-11-21"
-    ],
-    "cocooning_bain": [
-      "2026-11-22"
-    ],
-    "vrai_sophie_vagues_maillot": [
-      "2026-11-22"
-    ],
-    "toi_balade_lyon_02": [
-      "2026-11-23"
-    ],
-    "mer_01": [
-      "2026-11-24"
-    ],
-    "sophie_visio_ordinateur": [
-      "2026-11-24"
-    ],
-    "vrai_chat_panier": [
-      "2026-11-25"
-    ],
-    "vrai_sophie_plage_verre": [
-      "2026-11-25"
-    ],
-    "stock_mains_coucher_soleil": [
-      "2026-11-26"
-    ],
-    "ia_bisou_front_fils_maman": [
-      "2026-11-26"
-    ],
-    "toi_seance_sourire": [
-      "2026-11-27"
-    ],
-    "toi_voyage_bali": [
-      "2026-11-27"
-    ],
-    "bali_sophie_assise_parle": [
-      "2026-11-27"
-    ],
-    "banque_arbre_casque_audio": [
-      "2026-11-30"
-    ],
-    "vrai_sophie_neveu_calin": [
-      "2026-12-03"
-    ],
-    "vrai_riviere_1015_1": [],
-    "vrai_riviere_1015_6": [
-      "2026-11-25"
-    ],
-    "vrai_riviere_1015_7": [
-      "2026-11-25"
-    ],
-    "stock_couple_coucher_soleil": [
-      "2026-11-25"
-    ],
-    "ambiance_femme_sourire_fond_bleu": [
-      "2026-11-25"
-    ],
-    "ambiance_femme_sourire_boucles": [
-      "2026-11-25"
-    ],
-    "ambiance_femme_sourire_lunettes": [
-      "2026-11-25"
-    ],
-    "vrai_plage_amies_bretagne": [
-      "2026-11-25"
-    ],
-    "ia_grand_mere_galettes": [
-      "2026-11-25"
-    ],
-    "ia_fillette_veau": [
-      "2026-11-25"
-    ],
-    "ia_eau_citron_sourire": [
-      "2026-11-25"
-    ],
-    "ia_femme_pieds_sol_coeur": [
-      "2026-11-30"
-    ],
-    "video_chemin_soleil_1911": [
-      "2026-11-30"
-    ],
-    "banque_bureau_tempes": [
-      "2026-12-02"
-    ],
-    "bali_sophie_hochet": [
-      "2026-12-02"
-    ],
-    "banque_arbre_tete_mains": [
-      "2026-12-02"
-    ],
-    "toi_mains_energetique": [
-      "2026-12-02"
-    ],
-    "quotidien_agenda_rose": [
-      "2026-12-02"
-    ],
-    "bali_sophie_tambour_02": [
-      "2026-12-02"
-    ],
-    "banque_etreinte": [
-      "2026-12-02"
-    ],
-    "bali_formation_groupe": [
-      "2026-12-02"
-    ],
-    "ia_main_stop": [
-      "2026-12-02"
-    ],
-    "ia_non_famille": [
-      "2026-12-02"
-    ],
-    "ia_fillette_non": [
-      "2026-12-02"
-    ],
-    "ia_valise_nouveau_depart": [
-      "2026-12-07"
-    ],
-    "ia_pousse": [
-      "2026-12-07"
-    ],
-    "ia_feuille_bourgeon": [
-      "2026-12-07"
-    ],
-    "ia_femme_chemin_valise": [
-      "2026-12-07"
-    ]
-  }
+ "regle": "Une même photo au maximum une fois tous les 15 jours, et jamais deux fois le même jour. Vérifier ce fichier avant de choisir une photo et le mettre à jour à chaque programmation.",
+ "utilisations": {
+  "vrai_sophie_arbre_front_pieds_nus": [
+   "2026-11-13",
+   "2026-11-28",
+   "2026-11-30"
+  ],
+  "vrai_mer_kenya_eau_reflets": [
+   "2026-11-13",
+   "2026-12-01"
+  ],
+  "vrai_mer_kenya_ile": [
+   "2026-11-13",
+   "2026-11-29"
+  ],
+  "vrai_kenya_transat_plage": [
+   "2026-11-13",
+   "2026-11-28"
+  ],
+  "vrai_mer_kenya_barque": [
+   "2026-11-14",
+   "2026-11-29"
+  ],
+  "vrai_riviere_1015_9": [
+   "2026-11-14",
+   "2026-11-15",
+   "2026-11-29"
+  ],
+  "vrai_riviere_1015_10": [
+   "2026-11-15"
+  ],
+  "vrai_riviere_1015_8": [
+   "2026-11-15",
+   "2026-11-16"
+  ],
+  "vrai_riviere_1015_4": [
+   "2026-11-15",
+   "2026-11-30"
+  ],
+  "vrai_riviere_1015_3": [
+   "2026-11-16",
+   "2026-12-01"
+  ],
+  "vrai_riviere_1015_5": [
+   "2026-11-16"
+  ],
+  "toi_micro_selfie": [
+   "2026-11-17",
+   "2026-12-02"
+  ],
+  "matin_fenetre_01": [
+   "2026-11-17"
+  ],
+  "matin_jardin_provence": [
+   "2026-11-17",
+   "2026-12-02"
+  ],
+  "medaillon": [
+   "2026-11-17"
+  ],
+  "video_danse_femme_fenetre": [
+   "2026-11-11"
+  ],
+  "banque_ciel_rayons": [
+   "2026-11-21"
+  ],
+  "sophie_the_lavande_terrasse": [
+   "2026-11-18",
+   "2026-12-03"
+  ],
+  "sophie_amies_danse_terrasse": [
+   "2026-11-21",
+   "2026-12-07"
+  ],
+  "toi_balade_lyon_01": [
+   "2026-11-19"
+  ],
+  "sophie_bras_ouverts_foret": [
+   "2026-11-19",
+   "2026-12-04",
+   "2026-11-30"
+  ],
+  "sophie_amies_rire_terrasse": [
+   "2026-11-19",
+   "2026-12-04"
+  ],
+  "vrai_mer_kenya_1": [
+   "2026-11-20"
+  ],
+  "sophie_sourire_mer": [
+   "2026-11-20",
+   "2026-12-07"
+  ],
+  "vrai_mer_kenya_boutre": [
+   "2026-11-20"
+  ],
+  "matin_riviere_brume": [
+   "2026-11-16"
+  ],
+  "foret_02": [
+   "2026-11-16",
+   "2026-12-02"
+  ],
+  "banque_arbre_mains_coeur": [
+   "2026-11-16",
+   "2026-11-30"
+  ],
+  "ciel_04": [
+   "2026-11-16"
+  ],
+  "quotidien_bureau_calme": [
+   "2026-11-16"
+  ],
+  "toi_balade_riviere": [
+   "2026-11-16",
+   "2026-12-02"
+  ],
+  "foret_05": [
+   "2026-11-16"
+  ],
+  "vrai_arbre_ancrage": [
+   "2026-11-16",
+   "2026-12-01"
+  ],
+  "foret_01": [
+   "2026-11-16"
+  ],
+  "vrai_petit_arbre_qui_grandit": [
+   "2026-11-16",
+   "2026-12-02"
+  ],
+  "ciel_03": [
+   "2026-11-16"
+  ],
+  "foret_04": [
+   "2026-11-16"
+  ],
+  "riviere_1411_feuille_main": [
+   "2026-11-16"
+  ],
+  "riviere_1411_feuilles_baies": [
+   "2026-11-16",
+   "2026-12-07"
+  ],
+  "video_riviere_1411": [
+   "2026-11-16"
+  ],
+  "foret_03": [
+   "2026-11-16"
+  ],
+  "ciel_02": [
+   "2026-11-16"
+  ],
+  "ciel_01": [
+   "2026-11-16"
+  ],
+  "matin_fenetre_02": [
+   "2026-11-18",
+   "2026-12-07"
+  ],
+  "matin_rosee": [
+   "2026-11-18",
+   "2026-12-07"
+  ],
+  "quotidien_telephone_notifs": [
+   "2026-11-18"
+  ],
+  "matin_ruelle_ville": [
+   "2026-11-18"
+  ],
+  "detail_plume": [
+   "2026-11-18"
+  ],
+  "vrai_mer_kenya_3": [
+   "2026-11-18"
+  ],
+  "cocooning_lit": [
+   "2026-11-18"
+  ],
+  "matin_pieds_parquet": [
+   "2026-11-18",
+   "2026-12-07"
+  ],
+  "toi_meditation_herbe": [
+   "2026-11-18",
+   "2026-12-07"
+  ],
+  "vrai_mer_kenya_2": [
+   "2026-11-18"
+  ],
+  "sophie_breathwork_main_coeur": [
+   "2026-11-18",
+   "2026-12-07"
+  ],
+  "banque_canape_larmes": [
+   "2026-11-18"
+  ],
+  "detail_galets": [
+   "2026-11-18"
+  ],
+  "vrai_mer_kenya_malindi_2": [
+   "2026-11-18"
+  ],
+  "matin_lyon_terrasse_01": [
+   "2026-11-18"
+  ],
+  "vrai_bretagne_plage_soleil": [
+   "2026-11-18",
+   "2026-12-03"
+  ],
+  "ia_main_olivier": [
+   "2026-11-18"
+  ],
+  "banque_maison_lombaires": [
+   "2026-11-18"
+  ],
+  "matin_mains_tasse": [
+   "2026-11-18"
+  ],
+  "quotidien_nuque_tension": [
+   "2026-11-18"
+  ],
+  "detail_lavande": [
+   "2026-11-18"
+  ],
+  "vrai_bretagne_baie_pin_1": [
+   "2026-11-18"
+  ],
+  "vrai_pieds_sable_vague": [
+   "2026-11-18"
+  ],
+  "matin_fenetre_03": [
+   "2026-11-18"
+  ],
+  "matin_terrasse_05": [
+   "2026-11-18",
+   "2026-12-07"
+  ],
+  "vrai_sophie_plage_bras_ouverts": [
+   "2026-11-18",
+   "2026-12-04"
+  ],
+  "vrai_bretagne_plage_pins": [
+   "2026-11-18",
+   "2026-12-07"
+  ],
+  "matin_fenetre_04": [
+   "2026-11-23"
+  ],
+  "cocooning_plaid": [
+   "2026-11-23"
+  ],
+  "vrai_mariee_bouquet_danse": [
+   "2026-11-23"
+  ],
+  "vrai_bouquet_peche_atelier": [
+   "2026-11-23"
+  ],
+  "vrai_alignement_carillon": [
+   "2026-11-23"
+  ],
+  "vrai_bouquet_lavande_vase": [
+   "2026-11-23"
+  ],
+  "cocooning_01": [
+   "2026-11-23"
+  ],
+  "montagne_01": [
+   "2026-11-23"
+  ],
+  "detail_bougie": [
+   "2026-11-23"
+  ],
+  "toi_breathwork_seance": [
+   "2026-11-23"
+  ],
+  "bali_sophie_tambour_01": [
+   "2026-11-23"
+  ],
+  "vrai_alignement_carillon_feuillage": [
+   "2026-11-23"
+  ],
+  "matin_lyon_quai": [
+   "2026-11-23"
+  ],
+  "matin_lyon_terrasse_02": [
+   "2026-11-23"
+  ],
+  "vrai_sophie_amies_terrasse_plage": [
+   "2026-11-23"
+  ],
+  "mer_02": [
+   "2026-11-23"
+  ],
+  "vrai_mer_kenya_malindi_1": [
+   "2026-11-23"
+  ],
+  "vrai_bretagne_baie_pin_2": [
+   "2026-11-23"
+  ],
+  "banque_marche_coucher_soleil": [
+   "2026-11-23"
+  ],
+  "vrai_mer_kenya_4": [
+   "2026-11-23"
+  ],
+  "toi_arbre_ancrage": [
+   "2026-11-23"
+  ],
+  "sophie_bienvenue": [
+   "2026-11-23"
+  ],
+  "mer_04": [
+   "2026-11-23"
+  ],
+  "vrai_sophie_grimace_selfie": [
+   "2026-11-21"
+  ],
+  "mer_03": [
+   "2026-11-21"
+  ],
+  "cocooning_bain": [
+   "2026-11-22"
+  ],
+  "vrai_sophie_vagues_maillot": [
+   "2026-11-22"
+  ],
+  "toi_balade_lyon_02": [
+   "2026-11-23"
+  ],
+  "mer_01": [
+   "2026-11-24"
+  ],
+  "sophie_visio_ordinateur": [
+   "2026-11-24"
+  ],
+  "vrai_chat_panier": [
+   "2026-11-25"
+  ],
+  "vrai_sophie_plage_verre": [
+   "2026-11-25"
+  ],
+  "stock_mains_coucher_soleil": [
+   "2026-11-26"
+  ],
+  "ia_bisou_front_fils_maman": [
+   "2026-11-26"
+  ],
+  "toi_seance_sourire": [
+   "2026-11-27"
+  ],
+  "toi_voyage_bali": [
+   "2026-11-27"
+  ],
+  "bali_sophie_assise_parle": [
+   "2026-11-27"
+  ],
+  "banque_arbre_casque_audio": [
+   "2026-11-30"
+  ],
+  "vrai_sophie_neveu_calin": [
+   "2026-12-03"
+  ],
+  "vrai_riviere_1015_1": [],
+  "vrai_riviere_1015_6": [
+   "2026-11-25"
+  ],
+  "vrai_riviere_1015_7": [
+   "2026-11-25"
+  ],
+  "stock_couple_coucher_soleil": [
+   "2026-11-25"
+  ],
+  "ambiance_femme_sourire_fond_bleu": [
+   "2026-11-25"
+  ],
+  "ambiance_femme_sourire_boucles": [
+   "2026-11-25"
+  ],
+  "ambiance_femme_sourire_lunettes": [
+   "2026-11-25"
+  ],
+  "vrai_plage_amies_bretagne": [
+   "2026-11-25"
+  ],
+  "ia_grand_mere_galettes": [
+   "2026-11-25"
+  ],
+  "ia_fillette_veau": [
+   "2026-11-25"
+  ],
+  "ia_eau_citron_sourire": [
+   "2026-11-25"
+  ],
+  "ia_femme_pieds_sol_coeur": [
+   "2026-11-30"
+  ],
+  "video_chemin_soleil_1911": [
+   "2026-11-30"
+  ],
+  "banque_bureau_tempes": [
+   "2026-12-02"
+  ],
+  "bali_sophie_hochet": [
+   "2026-12-02"
+  ],
+  "banque_arbre_tete_mains": [
+   "2026-12-02"
+  ],
+  "toi_mains_energetique": [
+   "2026-12-02"
+  ],
+  "quotidien_agenda_rose": [
+   "2026-12-02"
+  ],
+  "bali_sophie_tambour_02": [
+   "2026-12-02"
+  ],
+  "banque_etreinte": [
+   "2026-12-02"
+  ],
+  "bali_formation_groupe": [
+   "2026-12-02"
+  ],
+  "ia_main_stop": [
+   "2026-12-02"
+  ],
+  "ia_non_famille": [
+   "2026-12-02"
+  ],
+  "ia_fillette_non": [
+   "2026-12-02"
+  ],
+  "ia_valise_nouveau_depart": [
+   "2026-12-07"
+  ],
+  "ia_pousse": [
+   "2026-12-07"
+  ],
+  "ia_feuille_bourgeon": [
+   "2026-12-07"
+  ],
+  "ia_femme_chemin_valise": [
+   "2026-12-07"
+  ],
+  "toi_breathwork_guide_02": [
+   "2026-11-30"
+  ],
+  "toi_seance_01": [
+   "2026-11-30"
+  ],
+  "banque_ecoute_carnet": [
+   "2026-11-30"
+  ],
+  "vrai_riviere_1015_2": [
+   "2026-11-30"
+  ],
+  "toi_breathwork_guide_01": [
+   "2026-11-30"
+  ],
+  "bali_participantes_allongees": [
+   "2026-11-30"
+  ],
+  "banque_main_epaule_soutien": [
+   "2026-12-02"
+  ],
+  "toi_seance_02": [
+   "2026-12-02"
+  ],
+  "toi_breathwork_reel": [
+   "2026-12-02"
+  ]
+ }
 }
