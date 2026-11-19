@@ -3,6 +3,7 @@ Reliés à son livre et à ses prises de conscience. Cocher [x] quand un sujet e
 Sophie autorise (17/11) à trouver aussi des sujets soi-même, reliés de près ou d'un peu plus loin à ces thèmes : les ajouter dans « Sujets ajoutés ».
 
 ## Déjà faites
+- [x] Recommencer (lun 07/12, monté le 19/11)
 - [x] Les Limites (mer 02/12)
 - [x] La Voix qui ancre (lun 30/11)
 - [x] La Joie simple (mer 25/11)
