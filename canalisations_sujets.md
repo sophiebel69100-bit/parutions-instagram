@@ -70,3 +70,6 @@ Sophie autorise (17/11) à trouver aussi des sujets soi-même, reliés de près 
 
 ## Règle (19/11)
 Une canalisation et une publication peuvent coexister le même jour sur le même sujet : publication à 12h30, canalisation à 18h30.
+
+## Règle (19/11, suite)
+Chaque reel de canalisation mélange les images envoyées par Sophie et des photos de sa banque de photos, en respectant la règle des 15 jours (photos_utilisees.json)
