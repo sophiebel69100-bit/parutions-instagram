@@ -1,0 +1,31 @@
+name: Publier les parutions Instagram
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publier
+  cancel-in-progress: false
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Publier
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: node scripts/publier.mjs
+      - name: Enregistrer l'état
+        run: |
+          git config user.name "publication-auto"
+          git config user.email "publication-auto@users.noreply.github.com"
+          git add etat.json
+          git diff --cached --quiet && exit 0
+          git commit -m "État des publications [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
