@@ -85,3 +85,6 @@ Chaque reel de canalisation mélange les images envoyées par Sophie et des phot
 
 ## Règle (19/11, grille)
 Toujours au moins 2 publications entre deux reels sur la grille : chaque jour de canalisation (lundi et mercredi) a aussi une publication à 12h30
+
+## Règle (19/11, banque photos)
+Quand la banque est épuisée, repartir au début : réutiliser en priorité les photos utilisées il y a le plus longtemps (toujours 15 jours minimum d'écart)
