@@ -5,27 +5,38 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: publier
   cancel-in-progress: false
 jobs:
   publier:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Publier
+      - name: Publier en boucle (toutes les 4 minutes pendant 5 h 30)
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
-        run: node scripts/publier.mjs
-      - name: Enregistrer l'état
         run: |
           git config user.name "publication-auto"
           git config user.email "publication-auto@users.noreply.github.com"
-          git add etat.json
-          git diff --cached --quiet && exit 0
-          git commit -m "État des publications [skip ci]"
-          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+          fin=$(( $(date +%s) + 330*60 ))
+          while [ "$(date +%s)" -lt "$fin" ]; do
+            git pull --rebase -q || true
+            node scripts/publier.mjs || echo "erreur publier.mjs"
+            git add etat.json
+            if ! git diff --cached --quiet; then
+              git commit -q -m "État des publications [skip ci]"
+              for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+            fi
+            sleep 240
+          done
+      - name: Relancer la boucle suivante
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run publier.yml --ref main
