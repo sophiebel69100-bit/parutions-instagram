@@ -111,3 +111,6 @@ Quand la banque est épuisée, repartir au début : réutiliser en priorité les
 - Extrait ~20 s, cœur de l'exercice, coupé sur silences, fondu 0,3 s, silences >3 s ramenés à 1 s, finir sur une phrase qui donne envie de la suite
 - Visuel : couverture du livre + sous-titres Ubuntu, bandeau doré « Ne scroll pas cette vidéo / Le secret est là 🗝️ », « Écoute ça ✨ » qui clignote, bouton doré « Je trouve TA Clé · le livre sur mon site · lien en bio » qui clignote
 - Scripts : scratchpad/livre/build.py (plan.json) et add_livre.py
+
+## Règle technique (21/11)
+Le site GitHub Pages doit rester sous 1 Go : à chaque préparation, retirer (git rm) les médias des dates déjà publiées qui ne sont plus référencés par une parution à venir
