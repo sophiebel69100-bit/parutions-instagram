@@ -13,7 +13,7 @@ Sophie autorise (17/11) à trouver aussi des sujets soi-même, reliés de près 
 
 ## À recevoir (planning donné à Sophie le 19/11)
 - mer 09/12 : Le Lâcher-prise (5 éléments reçus : femme au ballon cœur, homme N&B, cage ouverte, Aimer sans porter, quai de gare)
-- lun 14/12 : Revenir à la Source (6 éléments reçus, scratchpad canal9/src : fillette mains sur les joues, femme dans l'eau avec fleurs, visage dans l'eau N&B, télécommande, vidéo homme qui flotte en piscine 26 s horizontale, vidéo couple qui rit 11 s)
+- lun 14/12 : Revenir vers Soi (titre choisi par Sophie) (6 éléments reçus, scratchpad canal9/src : fillette mains sur les joues, femme dans l'eau avec fleurs, visage dans l'eau N&B, télécommande, vidéo homme qui flotte en piscine 26 s horizontale, vidéo couple qui rit 11 s)
 - mer 16/12 : Écouter son Intuition (plan donné par Sophie, scratchpad canal10/src : v1 homme qui lâche son téléphone, v2 plume dorée, v3 plume violette)
   1. Ouverture main sur le ventre : sophie_breathwork_main_coeur
   2. « Elle ne crie pas, elle murmure » : detail_plume (+ vidéo plume)
