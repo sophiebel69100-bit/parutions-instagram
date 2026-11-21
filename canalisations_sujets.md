@@ -96,3 +96,10 @@ Toujours au moins 2 publications entre deux reels sur la grille : chaque jour de
 
 ## Règle (19/11, banque photos)
 Quand la banque est épuisée, repartir au début : réutiliser en priorité les photos utilisées il y a le plus longtemps (toujours 15 jours minimum d'écart)
+
+## Règle (21/11, Guide de Chance Dorée de Sophie)
+- Fenêtres « argent » : 2e quinzaine de novembre, 1re quinzaine de décembre, dernière semaine de janvier → y placer les publications avec appel à l'action (site sophiebelneuropraticienne.fr « Visite mon site · lien en bio », échange 15 min offert, Résonance)
+- Au moins 1 publication « Visite mon site » dans la 1re quinzaine de décembre (pas les 8 et 9)
+- Vigilance 8 et 9 décembre : contenus doux, rien à vendre
+- 20 au 28 décembre : thème retrouvailles, petit comité, Gratitude
+- Janvier : vigilance du 3 au 5 (doux), 2e quinzaine retrouvailles/complicité, dernière semaine CTA
