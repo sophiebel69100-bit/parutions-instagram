@@ -103,3 +103,11 @@ Quand la banque est épuisée, repartir au début : réutiliser en priorité les
 - Vigilance 8 et 9 décembre : contenus doux, rien à vendre
 - 20 au 28 décembre : thème retrouvailles, petit comité, Gratitude
 - Janvier : vigilance du 3 au 5 (doux), 2e quinzaine retrouvailles/complicité, dernière semaine CTA
+
+## Série « Extraits de mon livre » (21/11)
+- Livre « L'abondance, du chaos au secret révélé », signé Sophie B., en ligne sur sophiebelneuropraticienne.fr (bouton « Je trouve TA Clé »)
+- 1 reel le samedi à 11h (grille), puis le même reel du dimanche au vendredi à 11h dans l'onglet Reels uniquement (grille:false)
+- Audios autorisés : livre_audio 01, 02, 03, 05, 06, 07, 08, 09, 10, 11, 12 (jamais le 04) ; 11 extraits programmés du 28/11 au 06/02 → ensuite à reprendre
+- Extrait ~20 s, cœur de l'exercice, coupé sur silences, fondu 0,3 s, silences >3 s ramenés à 1 s, finir sur une phrase qui donne envie de la suite
+- Visuel : couverture du livre + sous-titres Ubuntu, bandeau doré « Ne scroll pas cette vidéo / Le secret est là 🗝️ », « Écoute ça ✨ » qui clignote, bouton doré « Je trouve TA Clé · le livre sur mon site · lien en bio » qui clignote
+- Scripts : scratchpad/livre/build.py (plan.json) et add_livre.py
