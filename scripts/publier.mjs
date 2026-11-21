@@ -73,8 +73,9 @@ for (const p of prog.parutions || []) {
     } else if (p.type === 'post') {
       c = await api('POST', IG + '/media', { image_url: url(p.medias[0]), caption: legende });
     } else if (p.type === 'reel') {
-      const q = { media_type: 'REELS', video_url: url(p.medias[0]), caption: legende, share_to_feed: 'true' };
+      const q = { media_type: 'REELS', video_url: url(p.medias[0]), caption: legende, share_to_feed: p.grille === false ? 'false' : 'true' };
       if (p.couverture) q.cover_url = url(p.couverture);
+      if (p.essai) q.trial_params = JSON.stringify({ graduation_strategy: 'SS_PERFORMANCE' });
       c = await api('POST', IG + '/media', q);
     } else if (p.type === 'story') {
       const f = p.medias[0];
