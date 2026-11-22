@@ -114,3 +114,11 @@ Quand la banque est épuisée, repartir au début : réutiliser en priorité les
 
 ## Règle technique (21/11)
 Le site GitHub Pages doit rester sous 1 Go : à chaque préparation, retirer (git rm) les médias des dates déjà publiées qui ne sont plus référencés par une parution à venir
+
+## Livre offert : promotion à fond (22/11, demande de Sophie)
+- Le livre est désormais OFFERT (visuel mockup : media/livre/story_offert_1.jpg / _2.jpg) ; Sophie a boosté sa publication pour gagner des abonnés
+- Toutes les légendes à venir (hors stories) finissent par le bloc avant les hashtags :
+  🎁 Je t'offre mon livre / L'abondance, du chaos au secret révélé / Demande ton exemplaire, lien en bio
+- Série livre : bouton doré remplacé par « 🎁 Je t'offre mon livre · Demande ton exemplaire · lien en bio » (clignote dès 4,2 s)
+- Story livre offert chaque jour à 16h (alternance des 2 visuels) : programmée jusqu'au 04/12 → à prolonger à chaque nouvelle préparation
+- Toute nouvelle parution préparée doit intégrer ce bloc
