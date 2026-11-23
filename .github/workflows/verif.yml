@@ -1,9 +1,0 @@
-name: Verif token
-on: workflow_dispatch
-jobs:
-  v:
-    runs-on: ubuntu-latest
-    steps:
-      - env:
-          IG_TOKEN: ${{ secrets.IG_TOKEN }}
-        run: curl -s "https://graph.instagram.com/v21.0/me?fields=username&access_token=$IG_TOKEN" | grep -o '"username":"[^"]*"\|"message":"[^"]\{0,80\}'
